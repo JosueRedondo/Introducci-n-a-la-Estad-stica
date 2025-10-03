@@ -1,5 +1,5 @@
 ---
-title: "Cuestionario sobre Intención de Voto 2026"
+title: "Cuestionario sobre Intención de voto de cara a las elecciones presidenciales del 2026"
 author: "Josué Redondo"
 date: "2025-10-02"
 output: 
@@ -11,27 +11,72 @@ output:
       collapsed: true
 ---
 
-# Intención de voto de cara a las elecciones presidenciales del 2026
-
-## Introducción:
+# <ins>Introducción:</ins>
 
 ### Propósito del cuestionario:
 
-El siguiente cuestionario tiene el propósito de conocer la intención de voto de cara a las próximas elecciones presidenciales de Costa Rica del 2026. 
+El siguiente cuestionario tiene el propósito de conocer la intención de voto de cara a las próximas elecciones presidenciales de Costa Rica del 2026. La información recolectada permitirá medir la intención de voto y analizar los factores que pueden influir.
 
 ### Importancia del estudio:
 
-La importancia de este cuestionario radica en conocer expectativas de voto que tiene la población del CUC con respecto a las distintas candidaturas presidenciales que se han presentado hasta octubre del 2025.
+Este estudio es crucial para obtener una visión estadística, objetiva y actual del panorama político. Esta encuesta puede llegar a servir como base para futuras investigaciones, ofrecer valiosos datos para la toma de decisiones y brindar información fundamentada para el debate público de las elecciones.
 
+### Instrucciones generales para los participantes
 
+Agradecemos su participación para completar este cuestionario, su colaboración es fundamental para poder llevar a cabo este estudio. A continuación se le presentan algunas indicaciones referentes al cuestionario:
 
+**• Tiempo de respuesta: ** Completar este cuestionario le puede llevar de 7 a 9 minutos aproximadamente.
 
+**• Selección única** Para la mayoría de las preguntas, solo se debe seleccionar una opción, Marque la alternativa que mejor represente su opinión.
 
+**• Escalas de Likert: ** En preguntas que miden su nivel de acuerdo, si no tiene una opinión formada puede seleccionar la opción de "No sabe / No contesta" 
 
-=======================================================================================
+**• Preguntas de filtro: ** El cuestionario cuenta con una interrogante en la que dependiendo de su respuesta, se le enviará a otra sección. 
 
-Las personas que gusten colaborar con este cuestionario deben contestar con total sinceridad las preguntas planteadas en el cuestionario, las cuales se presentan en forma de preguntas dicotómicas (preguntas cuya respuesta es Si/No), preguntas de opción múltiple, preguntas de escala Likert (Muy bueno, bueno, regular, malo, muy malo), preguntas
+**• Espacios en blanco: ** Cuando encuentre una línea en blanco con la indicación "Especifique" o un cuadro para texto, por favor, escriba su respuesta de forma clara y concisa.
 
+**• Requisito final: ** Le solicitamos responder todas las preguntas del cuestionario para que su participación sea considerada completa.
 
+### Confidencialidad y uso de los Datos
 
+Los datos recopilados son anónimos y no se solicitará  información personal que permitan identificarlo. Su respuesta individual no será revelada bajo ninguna circunstancia. Los datos serán utilizados exclusivamente con fines académicos y de investigación para la elaboración de una asignación.
 
+# <ins>Población meta</ins>
+
+### Características demográficas
+
+La población meta para este estudio son los ciudadanos de la provincia de Cartago que tienen derecho a voto en las elecciones presidenciales de 2026.
+
+### Criterios de inclusión
+
+Se incluirán en la muestra a individuos que cumplan con los siguientes requisitos:
+
+• Ser ciudadano costarricense con 18 años o más de edad
+
+• Estar inscrito(a) en el padrón electoral y ser elegible para votar en las elecciones del 2026
+
+• Residir actualmente en el territorio nacional
+
+### Criterios de exclusión
+
+Se excluirán de la muestra los siguientes individuos:
+
+• Personas que no cumplen con los requisitos de edad o ciudadanía para votar
+
+• Individuos que declaren ser miembros activos de los equipos de campaña, ya que su posición podría sesgar las respuestas
+
+• Personas que presenten una negativa explícita a completar el cuestionario en su totalidad
+
+### Tamaño Estimado de la Población
+
+El tamaño total de la población a la que se dirige el estudio es el total de ciudadanos registrados en el padrón electoral para las elecciones de 2026.
+
+• Según datos del Tribunal Supremo de Elecciones, el Padrón Electoral está compuesto por 3.710.708 ciudadanos.
+
+# <ins>Objetivo general</ins>
+
+Establecer la intención de voto porcentual de la población elegible de Costa Rica de cara a las elecciones presidenciales de 2026 y analizar las correlaciones estadísticas entre dicha intención y las variables sociodemográficas (como sexo, edad, nivel de escolaridad y nivel socioeconómico) y las actitudes de los encuestados.
+
+# <ins>Enlace al cuestionario</ins>
+
+https://forms.cloud.microsoft/r/f2PA4MNaX8
