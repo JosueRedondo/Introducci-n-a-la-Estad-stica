@@ -3,15 +3,10 @@ title: "Cuestionario sobre Intención de voto de cara a las elecciones presidenc
 author: "Josué Redondo"
 date: "2025-10-02"
 output: 
-  html_document:
-    theme: journal 
-    toc: yes
-    toc_depth: 3
-    toc_float: 
-      collapsed: true
+  rmdformats::readthedown
 ---
 
-# <ins>Introducción:</ins>
+# <ins>Introducción</ins>
 
 ### Propósito del cuestionario:
 
@@ -25,17 +20,17 @@ Este estudio es crucial para obtener una visión estadística, objetiva y actual
 
 Agradecemos su participación para completar este cuestionario, su colaboración es fundamental para poder llevar a cabo este estudio. A continuación se le presentan algunas indicaciones referentes al cuestionario:
 
-**• Tiempo de respuesta: ** Completar este cuestionario le puede llevar de 7 a 9 minutos aproximadamente.
+* **Tiempo de respuesta: ** Completar este cuestionario le puede llevar de 7 a 9 minutos aproximadamente.
 
-**• Selección única** Para la mayoría de las preguntas, solo se debe seleccionar una opción, Marque la alternativa que mejor represente su opinión.
+* **Selección única** Para la mayoría de las preguntas, solo se debe seleccionar una opción, Marque la alternativa que mejor represente su opinión.
 
-**• Escalas de Likert: ** En preguntas que miden su nivel de acuerdo, si no tiene una opinión formada puede seleccionar la opción de "No sabe / No contesta" 
+* **Escalas de Likert: ** En preguntas que miden su nivel de acuerdo, si no tiene una opinión formada puede seleccionar la opción de "No sabe / No contesta" 
 
-**• Preguntas de filtro: ** El cuestionario cuenta con una interrogante en la que dependiendo de su respuesta, se le enviará a otra sección. 
+* **Preguntas de filtro: ** El cuestionario cuenta con una interrogante en la que dependiendo de su respuesta, se le enviará a otra sección. 
 
-**• Espacios en blanco: ** Cuando encuentre una línea en blanco con la indicación "Especifique" o un cuadro para texto, por favor, escriba su respuesta de forma clara y concisa.
+* **Espacios en blanco: ** Cuando encuentre una línea en blanco con la indicación "Especifique" o un cuadro para texto, por favor, escriba su respuesta de forma clara y concisa.
 
-**• Requisito final: ** Le solicitamos responder todas las preguntas del cuestionario para que su participación sea considerada completa.
+* **Requisito final: ** Le solicitamos responder todas las preguntas del cuestionario para que su participación sea considerada completa.
 
 ### Confidencialidad y uso de los Datos
 
@@ -51,27 +46,27 @@ La población meta para este estudio son los ciudadanos de la provincia de Carta
 
 Se incluirán en la muestra a individuos que cumplan con los siguientes requisitos:
 
-• Ser ciudadano costarricense con 18 años o más de edad
+* Ser ciudadano costarricense con 18 años o más de edad
 
-• Estar inscrito(a) en el padrón electoral y ser elegible para votar en las elecciones del 2026
+* Estar inscrito(a) en el padrón electoral y ser elegible para votar en las elecciones del 2026
 
-• Residir actualmente en el territorio nacional
-
+* Residir actualmente en el territorio nacional
+  
 ### Criterios de exclusión
 
 Se excluirán de la muestra los siguientes individuos:
 
-• Personas que no cumplen con los requisitos de edad o ciudadanía para votar
+* Personas que no cumplen con los requisitos de edad o ciudadanía para votar
 
-• Individuos que declaren ser miembros activos de los equipos de campaña, ya que su posición podría sesgar las respuestas
+* Individuos que declaren ser miembros activos de los equipos de campaña, ya que su posición podría sesgar las respuestas
 
-• Personas que presenten una negativa explícita a completar el cuestionario en su totalidad
+* Personas que presenten una negativa explícita a completar el cuestionario en su totalidad
 
 ### Tamaño Estimado de la Población
 
 El tamaño total de la población a la que se dirige el estudio es el total de ciudadanos registrados en el padrón electoral para las elecciones de 2026.
 
-• Según datos del Tribunal Supremo de Elecciones, el Padrón Electoral está compuesto por 3.710.708 ciudadanos.
+* Según datos del Tribunal Supremo de Elecciones, el Padrón Electoral está compuesto por 3.710.708 ciudadanos.
 
 # <ins>Objetivo general</ins>
 
@@ -79,4 +74,4 @@ Establecer la intención de voto porcentual de la población elegible de Costa R
 
 # <ins>Enlace al cuestionario</ins>
 
-https://forms.cloud.microsoft/r/f2PA4MNaX8
+* https://forms.cloud.microsoft/r/f2PA4MNaX8
