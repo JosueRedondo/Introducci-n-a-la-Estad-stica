@@ -8,11 +8,11 @@ output:
 
 # <ins>Introducción</ins>
 
-### Propósito del cuestionario:
+### Propósito del cuestionario
 
 El siguiente cuestionario tiene el propósito de conocer la intención de voto de cara a las próximas elecciones presidenciales de Costa Rica del 2026. La información recolectada permitirá medir la intención de voto y analizar los factores que pueden influir.
 
-### Importancia del estudio:
+### Importancia del estudio
 
 Este estudio es crucial para obtener una visión estadística, objetiva y actual del panorama político. Esta encuesta puede llegar a servir como base para futuras investigaciones, ofrecer valiosos datos para la toma de decisiones y brindar información fundamentada para el debate público de las elecciones.
 
@@ -20,17 +20,17 @@ Este estudio es crucial para obtener una visión estadística, objetiva y actual
 
 Agradecemos su participación para completar este cuestionario, su colaboración es fundamental para poder llevar a cabo este estudio. A continuación se le presentan algunas indicaciones referentes al cuestionario:
 
-* **Tiempo de respuesta: ** Completar este cuestionario le puede llevar de 7 a 9 minutos aproximadamente.
+* **<ins>Tiempo de respuesta:</ins> ** Completar este cuestionario le puede llevar de 7 a 9 minutos, aproximadamente.
 
-* **Selección única** Para la mayoría de las preguntas, solo se debe seleccionar una opción, Marque la alternativa que mejor represente su opinión.
+* **<ins>Selección única:</ins> ** Para la mayoría de las preguntas, solo se debe seleccionar una opción, marque la alternativa que mejor represente su opinión.
 
-* **Escalas de Likert: ** En preguntas que miden su nivel de acuerdo, si no tiene una opinión formada puede seleccionar la opción de "No sabe / No contesta" 
+* **<ins>Escalas de Likert:</ins> ** En preguntas que miden su nivel de acuerdo, si no tiene una opinión formada puede seleccionar la opción de "No sabe / No contesta" 
 
-* **Preguntas de filtro: ** El cuestionario cuenta con una interrogante en la que dependiendo de su respuesta, se le enviará a otra sección. 
+* **<ins>Preguntas de filtro:</ins> ** El cuestionario cuenta con una interrogante en la que dependiendo de su respuesta, se le enviará a otra sección. 
 
-* **Espacios en blanco: ** Cuando encuentre una línea en blanco con la indicación "Especifique" o un cuadro para texto, por favor, escriba su respuesta de forma clara y concisa.
+* **<ins>Espacios en blanco:</ins> ** Cuando encuentre una línea en blanco con la indicación "Especifique" o un cuadro para texto, por favor, escriba su respuesta de forma clara y concisa.
 
-* **Requisito final: ** Le solicitamos responder todas las preguntas del cuestionario para que su participación sea considerada completa.
+* **<ins>Requisito final:</ins> ** Le solicitamos responder todas las preguntas del cuestionario para que su participación sea considerada completa.
 
 ### Confidencialidad y uso de los Datos
 
